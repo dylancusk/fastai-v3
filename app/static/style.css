@@ -37,12 +37,6 @@ body {
     margin-top: 0.5em;
     padding: 10px;
     font-size: 13px;
-        width: 200px;
-    height: 40px;
-    border: solid 1px #FFA500;
-    border-radius: 2px;
-    background-color: #FFA500;
-    color: #ffffff;
 }
 
 button.choose-file-button {
