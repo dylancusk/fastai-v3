@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1pwP3_hmUVuhVwCzko7tvyHL6JTsw_p2E '
+export_file_url = 'https://drive.google.com/uc?export=download&id=1pwP3_hmUVuhVwCzko7tvyHL6JTsw_p2E'
 export_file_name = 'export.pkl'
 
 classes=['Artichoke', 'Asparagus', 'Beans', 'Beatroot', 'Broccoli', 'Brussels sprouts', 'Cabbage', 'Capsicums', 'Carrots', 'Cauliflower', 'Celeriac', 'Celery', 'Chilli peppers', 'Chokos', 'Courgettes and Scallopini', 'Cucumber', 'Eggplant', 'Fennel', 'Garlic', 'Ginger', 'Kale and Covolo Nero', 'Kohlrabi', 'Kumura', 'Leeks', 'Lettuce', 'Mushrooms', 'Okra', 'Onions', 'Parshnip', 'Peas', 'Potatoes', 'Puha', 'Pumpkins', 'Radishes', 'Rhubarb', 'Shallots', 'Silverbeet', 'Spinach', 'Spring Onions', 'Sweet Corn', 'Taro', 'Tomatoes', 'Turnips', 'Watercress', 'Witloof', 'Yams']
